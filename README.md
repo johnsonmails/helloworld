@@ -1,3 +1,4 @@
 #! /usr/bin/bash
 # helloworld
-myfirst helloworld code
+#myfirst helloworld code
+echo Hello World
